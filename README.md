@@ -2,7 +2,7 @@
 
 **The Problem: Heat Inequity**
 
-We are addressing SDG 11: Sustainable Cities and Communities, specifically the Urban Heat Islands (UHI) effect.
+In many San Jose neighborhoods, extreme heat is more than just a weather issue. It affects daily life and limits community activity. We are addressing SDG 11: Sustainable Cities and Communities, specifically the Urban Heat Islands (UHI) effect.
 The UHI effect disproportionately affects lower income neighborhoods where there is a lack of vegetation and heat trapping concrete is everywhere. For residents like Mateo, a father in East San Jose, the local playground is a "thermal red zone" where surfaces can exceed 140° degrees, making it unsafe for his children to play. 
 
 **AI Capability: Gemini 2.5**
