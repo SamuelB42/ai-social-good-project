@@ -18,6 +18,7 @@ Our solution follows a resident led reporting cycle:
 During testing we identified the "Albedo Gap". in our Lab 3 runs, we noticed that AI may misinterpret lighter colored synthetic surfaces as cool because they look like low heat materials, even though their high density allows them to retain extreme thermal energy. A real world consequence involving this would be the AI giving a low UHI score to a playground that is hot enough to burn a child. This proves that visual data alone can be misleading without human intervention.
 
 **Oversight and Tradeoff**
+
 Oversight: Any report with a risk score above 7/10 or any surface identified as Synthetic Rubber must be held for mandatory hyman review by a city inspector before being cleared as safe.
 
 Tradeoff: This reduces the speed of the instant audit and increases the operational cost for the city. However, this tradeoff is absolutely necessary, the cost of a delayed report is far lower than the cost of a serious child injury because of an AI mistake.
