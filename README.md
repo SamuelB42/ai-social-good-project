@@ -21,6 +21,11 @@ Our solution follows a resident led reporting cycle:
   
   Action: The report is routed to city planners, prioritizing immediate cooling infrastrucure for     these dangers thermal red zones
 
+<img width="1710" height="1107" alt="Screenshot 2026-05-10 at 2 52 36 PM" src="https://github.com/user-attachments/assets/ff05db61-4c70-4440-9208-70572528f558" />
+<img width="1678" height="693" alt="Screenshot 2026-05-10 at 2 53 12 PM" src="https://github.com/user-attachments/assets/89a3a9a7-acd5-468c-a09a-7949045712ee" />
+<img width="1710" height="1107" alt="Screenshot 2026-05-10 at 2 53 21 PM" src="https://github.com/user-attachments/assets/788dac05-e2ef-445e-964f-94373011996d" />
+
+
 **Failure Case**
 
 During testing we identified the "Albedo Gap". in our Lab 3 runs, we noticed that AI may misinterpret lighter colored synthetic surfaces as cool because they look like low heat materials, even though their high density allows them to retain extreme thermal energy. A real world consequence involving this would be the AI giving a low UHI score to a playground that is hot enough to burn a child. This proves that visual data alone can be misleading without human intervention.
