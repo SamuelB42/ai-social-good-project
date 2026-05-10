@@ -14,11 +14,8 @@ We used Gemini 2.5 Multimodal Recognition (Lab 3). Unlike traditional text-based
 Our solution follows a resident led reporting cycle:
 
   Input: Mateo takes a photo of a playground surface and uploads it to the audit tool
-  
   AI Analysis: Gemini 2.5 scans the image for Surface material and Shade coverage
-  
   Output: The system generates a UHI Risk Score (1-10) and suggests an SDG 11 Intervention, such as   installing Shade Sails
-  
   Action: The report is routed to city planners, prioritizing immediate cooling infrastrucure for     these dangers thermal red zones
 
 **Failure Case**
