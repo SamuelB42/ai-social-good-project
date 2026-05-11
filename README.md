@@ -22,9 +22,9 @@ Our solution follows a resident-led reporting cycle:
   Action: The report is routed to city planners, prioritizing immediate cooling infrastructure improvements for dangerous thermal red zones
 
 <img width="1470" height="799" alt="Part 1" src="https://github.com/user-attachments/assets/e7d007aa-9ad0-4e7f-be8a-fe5283746699" />
-<img width="1470" height="242" alt="Part 1 Continuation" src="https://github.com/user-attachments/assets/b4ac9a9f-976a-4d27-b3d0-267a0a32f001" />
 <img width="1468" height="799" alt="Part 2   3" src="https://github.com/user-attachments/assets/73b652b9-e8fd-461b-ad5b-04d54f9d1852" />
 <img width="1470" height="800" alt="Part 3 Continuation" src="https://github.com/user-attachments/assets/cf4366fc-34b7-4da7-85bc-60241346b7cc" />
+<img width="1470" height="242" alt="Part 3 Continuation 2" src="https://github.com/user-attachments/assets/96bbb0c6-9868-481c-99a1-6e5057b98548" />
 <img width="1470" height="801" alt="Part 4   5" src="https://github.com/user-attachments/assets/8f5b8481-fb60-4929-a4a3-d71b2491b29d" />
 <img width="1470" height="345" alt="Part 5 Continuation" src="https://github.com/user-attachments/assets/4fa38dd6-3d5a-4c6b-98d5-f0e157e58537" />
 
