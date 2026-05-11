@@ -1,4 +1,4 @@
-**Project: Multimodal AI for Urban Heat Equity (SDG 11)**
+<img width="1470" height="801" alt="Part 4   5" src="https://github.com/user-attachments/assets/aaeb510a-b89d-425b-a586-9a324994e90a" /><img width="1470" height="800" alt="Part 3 Continuation" src="https://github.com/user-attachments/assets/3abf9da8-7a73-4aa7-9d92-2bb4d9d7a366" />**Project: Multimodal AI for Urban Heat Equity (SDG 11)**
 
 **The Problem: Heat Inequity**
 
@@ -21,10 +21,12 @@ Our solution follows a resident-led reporting cycle:
   
   Action: The report is routed to city planners, prioritizing immediate cooling infrastructure improvements for dangerous thermal red zones
 
-<img width="1658" height="948" alt="Screenshot 2026-05-10 at 3 31 36 PM" src="https://github.com/user-attachments/assets/2a6ccd18-3516-40e7-9733-7cb43098847b" />
-<img width="1678" height="693" alt="Screenshot 2026-05-10 at 2 53 12 PM" src="https://github.com/user-attachments/assets/89a3a9a7-acd5-468c-a09a-7949045712ee" />
-<img width="1710" height="1107" alt="Screenshot 2026-05-10 at 2 53 21 PM" src="https://github.com/user-attachments/assets/788dac05-e2ef-445e-964f-94373011996d" />
-
+<img width="1470" height="799" alt="Part 1" src="https://github.com/user-attachments/assets/e7d007aa-9ad0-4e7f-be8a-fe5283746699" />
+<img width="1470" height="242" alt="Part 1 Continuation" src="https://github.com/user-attachments/assets/b4ac9a9f-976a-4d27-b3d0-267a0a32f001" />
+<img width="1468" height="799" alt="Part 2   3" src="https://github.com/user-attachments/assets/73b652b9-e8fd-461b-ad5b-04d54f9d1852" />
+<img width="1470" height="800" alt="Part 3 Continuation" src="https://github.com/user-attachments/assets/cf4366fc-34b7-4da7-85bc-60241346b7cc" />
+<img width="1470" height="801" alt="Part 4   5" src="https://github.com/user-attachments/assets/8f5b8481-fb60-4929-a4a3-d71b2491b29d" />
+<img width="1470" height="345" alt="Part 5 Continuation" src="https://github.com/user-attachments/assets/4fa38dd6-3d5a-4c6b-98d5-f0e157e58537" />
 
 **Failure Case**
 
