@@ -35,6 +35,6 @@ During our Lab 3 testing, we identified the "Albedo Gap." We noticed that AI may
 
 **Oversight and Tradeoff**
 
-Oversight: Any report with a risk score above 7/10 or any surface identified as Synthetic Rubber must be held for mandatory human review by a city inspector before being cleared as safe.
+Oversight: Any report with a risk score above 7/10 or any surface identified as Synthetic Rubber must be held for mandatory human review by a city inspector before being cleared as safe. Also, we could connect the AI system to live local weather station APIs so temperature conditions are automatically included in the analysis instead of relying only on visual appearance.
 
-Tradeoff: This reduces the speed of the instant audit and increases the operational cost for the city. However, this tradeoff is absolutely necessary because the cost of a delayed report is far lower than the cost of a serious child injury because of an AI mistake.
+Tradeoff: This would improve safety accuracy and reduce visual-bias errors, but it would increase operational costs, require API subscriptions, and add technical complexity to the system. However, this tradeoff is absolutely necessary because the cost of a delayed report is far lower than the cost of a serious child injury because of an AI mistake.
