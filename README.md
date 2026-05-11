@@ -13,13 +13,13 @@ We used Gemini 2.5 Multimodal Recognition (Lab 3). Unlike traditional text-based
 
 Our solution follows a resident-led reporting cycle:
 
-  Input: Mateo takes a photo of a playground surface and uploads it to the audit tool
+  Input: Mateo takes a photo of a playground surface and uploads it to the audit tool for analysis
   
-  AI Analysis: Gemini 2.5 scans the image for Surface material and Shade coverage
+  AI Analysis: Gemini 2.5 uses multimodal image recognition to identify heat-retaining materials, estimate shade coverage, evaluate greenery levels, and calculate Urban Heat Island (UHI) risk conditions
   
-  Output: The system generates a UHI Risk Score (1-10) and suggests an SDG 11 Intervention, such as installing Shade Sails
+  Output: The system generates a UHI Risk Score (1-10), structured JSON safety data, and SDG 11 cooling recommendations such as adding shade sails, trees, or reflective surfaces
   
-  Action: The report is routed to city planners, prioritizing immediate cooling infrastructure for these danger thermal red zones
+  Action: The report is routed to city planners, prioritizing immediate cooling infrastructure improvements for dangerous thermal red zones
 
 <img width="1658" height="948" alt="Screenshot 2026-05-10 at 3 31 36 PM" src="https://github.com/user-attachments/assets/2a6ccd18-3516-40e7-9733-7cb43098847b" />
 <img width="1678" height="693" alt="Screenshot 2026-05-10 at 2 53 12 PM" src="https://github.com/user-attachments/assets/89a3a9a7-acd5-468c-a09a-7949045712ee" />
@@ -28,7 +28,7 @@ Our solution follows a resident-led reporting cycle:
 
 **Failure Case**
 
-During testing, we identified the "Albedo Gap." In our Lab 3 runs, we noticed that AI may misinterpret lighter colored synthetic surfaces as cool because they look like low-heat materials, even though their high density allows them to retain extreme thermal energy. A real-world consequence involving this would be the AI giving a low UHI score to a playground that is hot enough to burn a child. This proves that visual data alone can be misleading without human intervention.
+During our Lab 3 testing, we identified the "Albedo Gap." We noticed that AI may misinterpret lighter colored synthetic surfaces as cool because they look like low-heat materials, even though their high density allows them to retain extreme thermal energy. A real-world consequence involving this would be the AI giving a low UHI score to a playground that is hot enough to burn a child. This proves that visual data alone can be misleading without human intervention. In fact, in one of our runs, the AI initially described the light-colored rubber flooring as appearing “relatively safe” because of its lighter visual appearance. However, after fixing the code, the model acknowledged that the surface could still exceed burn-safe temperatures. This demonstrated that the AI relied too heavily on visual appearance without environmental context.
 
 **Oversight and Tradeoff**
 
