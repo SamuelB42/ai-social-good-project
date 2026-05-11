@@ -1,4 +1,4 @@
-<img width="1470" height="801" alt="Part 4   5" src="https://github.com/user-attachments/assets/aaeb510a-b89d-425b-a586-9a324994e90a" /><img width="1470" height="800" alt="Part 3 Continuation" src="https://github.com/user-attachments/assets/3abf9da8-7a73-4aa7-9d92-2bb4d9d7a366" />**Project: Multimodal AI for Urban Heat Equity (SDG 11)**
+**Project: Multimodal AI for Urban Heat Equity (SDG 11)**
 
 **The Problem: Heat Inequity**
 
