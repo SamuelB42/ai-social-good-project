@@ -28,6 +28,7 @@ Our solution follows a resident-led reporting cycle:
 <img width="1470" height="801" alt="Part 4   5" src="https://github.com/user-attachments/assets/8f5b8481-fb60-4929-a4a3-d71b2491b29d" />
 <img width="1470" height="345" alt="Part 5 Continuation" src="https://github.com/user-attachments/assets/4fa38dd6-3d5a-4c6b-98d5-f0e157e58537" />
 
+
 **Failure Case**
 
 During our Lab 3 testing, we identified the "Albedo Gap." We noticed that AI may misinterpret lighter colored synthetic surfaces as cool because they look like low-heat materials, even though their high density allows them to retain extreme thermal energy. A real-world consequence involving this would be the AI giving a low UHI score to a playground that is hot enough to burn a child. This proves that visual data alone can be misleading without human intervention. In fact, in one of our runs, the AI initially described the light-colored rubber flooring as appearing “relatively safe” because of its lighter visual appearance. However, after fixing the code, the model acknowledged that the surface could still exceed burn-safe temperatures. This demonstrated that the AI relied too heavily on visual appearance without environmental context.
